@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7ec24b7-fc2c-4390-87da-bd882f708838" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YzXQcsiySAVKDAh1NcvnFTHPEY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fordon\IdeaProjects\Mlynek\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TicTacToe">
+    <configuration name="Mlynek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mlynek" />
+      <module name="Mlynek.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
+      <module name="Mlynek.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.Mlynek" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7ec24b7-fc2c-4390-87da-bd882f708838" name="Default Changelist" comment="" />
+      <created>1583946381574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583946381574</updated>
+      <workItem from="1583946385114" duration="2541000" />
+      <workItem from="1584129816683" duration="619000" />
+      <workItem from="1584177704855" duration="4507000" />
+      <workItem from="1584185431270" duration="3343000" />
+      <workItem from="1584279113585" duration="4392000" />
+      <workItem from="1584458293303" duration="1725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1725" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1584180583051">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1725" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1584180583051" />
+    <state width="1236" height="348" key="GridCell.Tab.0.bottom" timestamp="1584461778001">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584461778001" />
+    <state width="1236" height="348" key="GridCell.Tab.0.center" timestamp="1584461778000">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584461778000" />
+    <state width="1236" height="348" key="GridCell.Tab.0.left" timestamp="1584461778000">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584461778000" />
+    <state width="1236" height="348" key="GridCell.Tab.0.right" timestamp="1584461778001">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584461778001" />
+    <state width="1236" height="348" key="GridCell.Tab.1.bottom" timestamp="1584461778002">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584461778002" />
+    <state width="1236" height="348" key="GridCell.Tab.1.center" timestamp="1584461778002">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584461778002" />
+    <state width="1236" height="348" key="GridCell.Tab.1.left" timestamp="1584461778001">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584461778001" />
+    <state width="1236" height="348" key="GridCell.Tab.1.right" timestamp="1584461778002">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584461778002" />
+  </component>
+</project>
